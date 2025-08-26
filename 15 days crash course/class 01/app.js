@@ -36,3 +36,7 @@ let myLuckyNumber = 7;
 //3. Boolean
 let isTodaySunday = true;
 //examples= true, false
+
+//4. null
+let greet = null;
+// examples = null
