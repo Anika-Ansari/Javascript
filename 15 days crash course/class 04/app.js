@@ -13,3 +13,17 @@ function employee(fileNo) {
 }
 employee(7);
 employee(9);
+
+
+
+function employee(fileNo) {
+     return "Working on file no " + fileNo;
+}
+
+// function ko call karte waqt result ko print karna:
+console.log(employee(7));  
+console.log(employee(9));
+
+// ek aur example
+console.log(employee(15));
+console.log(employee(21));
